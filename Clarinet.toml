@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/marketplace.clar"
 depends_on = []
 
+[contracts.trend-tracker]
+path = "contracts/trend-tracker.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
