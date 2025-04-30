@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/marketplace.clar"
 depends_on = []
 
+[contracts.payment-processor]
+path = "contracts/payment-processor.clar"
+depends_on = []
+
 [contracts.reputation]
 path = "contracts/reputation.clar"
 depends_on = []
